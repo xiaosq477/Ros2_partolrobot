@@ -1,4 +1,4 @@
-# 基于ROS2和Navigation2的自动巡检机器人
+# 基于ROS 2和Navigation 2的自动巡检机器人
 ## 1.项目介绍
     本项目基于 .鱼香ROS. up主,使用的是gazebosim
 ## 2.使用方法
